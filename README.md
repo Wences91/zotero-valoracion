@@ -66,3 +66,7 @@ Each language is a folder in `src/locale/` with a `valoracion.ftl` file, plus a 
 ## License
 
 [MIT](LICENSE)
+
+## AI statement
+
+The code of this plugin was written with Claude (Anthropic) under the author's direction. Claude is also used for editing and organisation tasks in this repository through the [session-wrap-up](https://github.com/Wences91/session-wrap-up) [skill](https://support.claude.com/en/articles/12512176-what-are-skills). It reviews the changes, identifies possible errors and records them, with suggestions, in the author's private notes. It also updates this README and the requirements files, corrects spelling in code comments and prepares commits that the author approves before pushing.

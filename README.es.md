@@ -66,3 +66,7 @@ Cada idioma es una carpeta en `src/locale/` con un archivo `valoracion.ftl`, má
 ## Licencia
 
 [MIT](LICENSE)
+
+## Declaración de uso de IA
+
+El código de este complemento se escribió con Claude (Anthropic) bajo la dirección del autor. Claude se usa además para tareas de edición y organización en este repositorio mediante la [skill](https://support.claude.com/en/articles/12512176-what-are-skills) [session-wrap-up](https://github.com/Wences91/session-wrap-up). Revisa los cambios, identifica posibles errores y los anota, con sugerencias, en las notas privadas del autor. También actualiza este README y los archivos de requisitos, corrige la ortografía de los comentarios del código y prepara los commits que el autor aprueba antes de subirlos.

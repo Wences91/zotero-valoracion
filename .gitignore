@@ -1,3 +1,4 @@
 build/
 /*.xpi
 .DS_Store
+notes.md
