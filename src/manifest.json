@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_name__",
+  "version": "1.1.0",
+  "description": "__MSG_description__",
+  "default_locale": "en",
+  "author": "Wenceslao Arroyo-Machado",
+  "homepage_url": "https://github.com/Wences91/zotero-valoracion",
+  "icons": {
+    "48": "icon-addon.svg",
+    "96": "icon-addon.svg"
+  },
+  "applications": {
+    "zotero": {
+      "id": "valoracion@wences91.github.io",
+      "update_url": "https://raw.githubusercontent.com/Wences91/zotero-valoracion/main/updates.json",
+      "strict_min_version": "6.999",
+      "strict_max_version": "10.*"
+    }
+  }
+}

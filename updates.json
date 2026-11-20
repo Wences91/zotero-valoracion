@@ -1,0 +1,19 @@
+{
+  "addons": {
+    "valoracion@wences91.github.io": {
+      "updates": [
+        {
+          "version": "1.1.0",
+          "update_link": "https://github.com/Wences91/zotero-valoracion/releases/download/v1.1.0/zotero-valoracion-1.1.0.xpi",
+          "update_hash": "sha256:76d40e6fbd4791d70657675aab0e2f90192c08c28e08a843a72a3cdb78528ec1",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999",
+              "strict_max_version": "10.*"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

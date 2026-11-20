@@ -1,0 +1,8 @@
+{
+  "name": {
+    "message": "Valoración"
+  },
+  "description": {
+    "message": "Valora cada elemento del 1 al 10 con una puntuación codificada por colores, visible en el panel del elemento y en una columna ordenable."
+  }
+}

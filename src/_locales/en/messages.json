@@ -1,0 +1,8 @@
+{
+  "name": {
+    "message": "Item Rating"
+  },
+  "description": {
+    "message": "Rate each item from 1 to 10 with a color-coded score, shown in the item pane and in a sortable column."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Valoracion Test Driver",
+  "version": "0.0.1",
+  "description": "Throwaway driver used to smoke-test the plugin in a temporary profile.",
+  "applications": {
+    "zotero": {
+      "id": "valoracion-test@local.test",
+      "update_url": "https://example.invalid/updates.json",
+      "strict_min_version": "6.999",
+      "strict_max_version": "99.*"
+    }
+  }
+}
